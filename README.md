@@ -1,4 +1,4 @@
-Projet de classification d’images d’hématies
+Projet de classification d’images d’hématies , c'est un projet académique fournie par notre prof Mr HORAITY Hakim.
 
 Introduction
 Contexte et Importance du Projet
@@ -8,3 +8,5 @@ La détection précoce et précise de cette maladie est cruciale pour le traitem
 Objectif du Projet
 L'objectif de ce projet est de développer et d'entraîner un modèle de réseau de neurones convolutifs (CNN) capable de différencier les hématies infectées par le paludisme de celles qui sont saines. 
 Un tel modèle pourrait considérablement accélérer le processus de diagnostic et augmenter sa précision, en offrant une assistance automatisée aux professionnels de santé.
+
+
